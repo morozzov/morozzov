@@ -4,10 +4,6 @@
 
 #
 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morozzov&show_icons=true&theme=radical) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozzov&layout=compact&theme=radical&langs_count=10&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
- 
  ![Profile views](https://gpvc.arturio.dev/morozzov)  
-
-
-
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morozzov&show_icons=true&theme=radical) 
