@@ -6,6 +6,10 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api?username=morozzov&layout=compact&theme=tokyonight&langs_count=10&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
 
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozzov&layout=compact&theme=tokyonight&langs_count=10&hide=Python)](https://github.com/anuraghazra/github-readme-stats)
+
 # 
 
  ![Profile views](https://gpvc.arturio.dev/morozzov)  
