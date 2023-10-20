@@ -1,6 +1,6 @@
 # I'm **morozzov**
 
- [<img src='https://www.svgrepo.com/show/349375/github.svg' alt='github' height='40'>](https://github.com/morozzov) [<img src='https://www.svgrepo.com/show/349527/telegram.svg' alt='telegram' height='40'>](https://t.me/moroz_zov) [<img src='https://www.svgrepo.com/show/111199/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_morozzov) [<img src='https://www.svgrepo.com/show/303449/vk-1-logo.svg' alt='VK' height='40'>](https://vk.com/moroz_zov) 
+ [<img src='https://www.svgrepo.com/show/349375/github.svg' alt='github' height='40'>](https://github.com/morozzov) [<img src='https://www.svgrepo.com/show/349527/telegram.svg' alt='telegram' height='40'>](https://t.me/moroz_zov) [<img src='https://www.svgrepo.com/show/475658/instagram-color.svg' alt='instagram' height='40'>](https://www.instagram.com/_morozzov) [<img src='https://www.svgrepo.com/show/349554/vk.svg' alt='VK' height='40'>](https://vk.com/moroz_zov) 
 
 #
 
