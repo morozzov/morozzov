@@ -14,7 +14,7 @@
 <details>
 <summary>:fire: Show Streak</summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=morozzov&theme=tokyonight&card_width=420)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=morozzov&theme=tokyonight&card_width=420)](https://git.io/streak-stats)
 
 </details>
 
